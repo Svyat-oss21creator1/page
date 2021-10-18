@@ -6,23 +6,12 @@ body {
     font-size: 16px;
     font-weight: 700;
 }
-
-
 header {
-
-
     background-color: #474747;
-
-
 }
-
-
-
 .menu a {
     color: #F13B02;
 }
-
-
 .menu {
     text-align: center;
     margin: 0 auto;
@@ -33,9 +22,6 @@ header {
     margin: 18px;
     line-height: 24px;
 }
-
-
-
 ._image_wrapp {
     padding-top: 20px;
     background-image: url(../images/wind-turbines.jpg);
@@ -43,15 +29,10 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 640px;
-
 }
-
 .text {
-
     margin-left: 288px;
-    margin-top: 80px;
-
-}
+    margin-top: 80px;}
 
 .order {
     width: 128px;
@@ -59,25 +40,17 @@ header {
     border: 2px solid #F13B02;
     border-radius: 8px;
 }
-
-
 .knock {
     text-align: center;
-    margin: 10px;
-
-}
+    margin: 10px;}
 
 .knock a {
     color: #F13B02;
 }
 
-
 .container {
     background-color: #474747;
-
-
 }
-
 .contact-form {
     max-width: 571px;
     margin-left: auto;
@@ -85,8 +58,6 @@ header {
     background-color: #474747;
     padding: 10px;
 }
-
-
 form {
     color: #C4C4C4;
     max-width: 571px;
@@ -108,8 +79,6 @@ input {
     border: 2px solid #F13B02;
     border-radius: 8px;
 }
-
-
 button {
     width: 128px;
     height: 40px;
@@ -129,16 +98,11 @@ a{text-decoration: none;
 }
 
 footer {
-
-
     background-color: black;
     color: white;
     text-align: center;
 }
-
 .end {
     display: inline-block;
     margin: 0 auto;
-
-
 }
